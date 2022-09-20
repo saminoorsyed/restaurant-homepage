@@ -1,0 +1,19 @@
+{
+  "name": "restaurant-homepage",
+  "version": "1.0.0",
+  "description": "using JavaScript alone to generate the entire contents of the website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saminoorsyed/restaurant-homepage.git"
+  },
+  "author": "Sami Syed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saminoorsyed/restaurant-homepage/issues"
+  },
+  "homepage": "https://github.com/saminoorsyed/restaurant-homepage#readme"
+}
